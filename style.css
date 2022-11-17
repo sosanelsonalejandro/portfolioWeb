@@ -61,7 +61,7 @@ footer p {
 
 
 footer a {
-    transition: color 0.3s; ease; 
+    transition: color 0.3s; ease;
     color: #fff;
     text-decoration: none;
 }
